@@ -1,9 +1,5 @@
-<img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
 
-# Meroser's IPTV📺
-欢迎来到Meroser的直播源仓库🎉
-
-🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
+# 📺
 
 - 🔮本播放列表完美集成**高清台标**
 
@@ -11,26 +7,14 @@
 
 - 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
 
-🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流[点击链接加入群聊【IPTV交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQgdR579HkcQpf1WIfgMhmhw__lceNHa&authKey=WgpyOGfxU7VGD%2B1KNe6djs511scQwUx1%2BrXj7KYhQAtcaEN5DwkkKs0TQc7uIllQ&noverify=0&group_code=629554537)
-
 ## 📖说明
 所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
 
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
-<p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
-<img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
-</p>
-
 ## 🏄‍♀️源地址
 
-
-|     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
+|     📦                      🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
 | 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
 |  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
@@ -86,14 +70,6 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img2.jpg"></p>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img3.jpg"></p>
 
-## 🆕更新
-- 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
-- 2024.02.18 新增山西、黑龙江地方台
-- 2024.02.01 移除失效上海台
-- 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
-- 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
-
-<img align="right" width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/doraemon.jpg">
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
@@ -103,14 +79,3 @@
 - YanG-1989：[https://github.com/YanG-1989/m3u](https://github.com/YanG-1989/m3u)[`特别感谢`]
 - [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
 - GitHub及互联网其他资源[`特别感谢`]
-
-<u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
-
-## 🙋‍♂️赞赏及交流群：
-<p>
-<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/QQqun.jpg">
-<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Appreciation.jpg">
-</p>
-
-
-
